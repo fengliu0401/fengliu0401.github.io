@@ -99,5 +99,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/fengliu0401/fengliu0401.github.io
+  repo: https://github.com/fengliu0401/fengliu0401.github.io.git
   branch: master
